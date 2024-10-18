@@ -1,4 +1,4 @@
-## Oii! Eu sou a Débora Bruna 💕
+## Oii! Eu sou Débora Bruna 💕
 
 - Linguagens 💻:
 
