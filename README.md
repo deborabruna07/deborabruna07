@@ -1,24 +1,17 @@
-## Oii! Eu sou Débora Bruna 💕
+![img](https://i.pinimg.com/originals/bc/52/89/bc5289522019b7f2ed2eaea1468f994d.gif)
 
-- Linguagens 💻:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+My+Profile;My+Name+is+Luiz+Matheus;I'm+18+years+old;I'm+From+Paraíba,Brazil;I+study+Computer+Science)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
+![devluizmatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizmatheus&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
-- Contato 📲: 
- 
-<div> 
-  <a href="https://www.instagram.com/debora__bruna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/debora.bruna.7773" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white></a>
-  <a href = "mailto:debora07122004@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
-  <a href="https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 🔭 I am currently working and studying
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,)](https://skillicons.dev)
+
+## 💬 Ask me about ...
+I am a proactive person and I try to do my best in daily projects, I am always looking for new knowledge about the area of ​​Development and Technology. I constantly try to improve my SoftSkills and my performance in group projects
+## 📫 How to reach me:
+
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.matheus.angel/?next=%2F)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizmatheusoleite@gmail.com)
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(83)993853791)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-matheus-oliveira-leite-51304a2b6/)
