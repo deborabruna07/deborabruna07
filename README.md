@@ -1,6 +1,6 @@
-![img](https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif)
+![img](https://i.pinimg.com/originals/a4/a5/21/a4a5213d12274e96ae25f2468aad27bc.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+My+Profile;Meu+nome+é+Débora+Bruna;Tenho+19+anos+de+idade;Sou+da+Paraíba,Brasil;Eu+estudo+Ciência+da+Computação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=OLá!+Seja+Bem+-++Vindo+ao+meu+perfil;Meu+nome+é+Débora+Bruna;Tenho+19+anos+de+idade;Sou+da+Paraíba,Brasil;Eu+estudo+Ciência+da+Computação)](https://git.io/typing-svg)
 
 ![deborabruna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
