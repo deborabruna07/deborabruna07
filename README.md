@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=OLá!+Seja+Bem+-++Vindo+ao+meu+perfil;Meu+nome+é+Débora+Bruna;Tenho+19+anos+de+idade;Sou+da+Paraíba,+Brasil;Eu+estudo+Ciência+da+Computação)](https://git.io/typing-svg)
 
-![deborabruna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&text_color=FFCBD&theme=transparent&hide=jupyter%20notebook)
+![deborabruna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&text_color=FFCBDB&theme=transparent&hide=jupyter%20notebook)
 
 ## 🔭 Atualmente estou trabalhando e estudando
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,)](https://skillicons.dev)
