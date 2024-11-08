@@ -13,4 +13,4 @@ Sou uma pessoa proativa e procuro dar o meu melhor nos projetos diários, estou 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora__bruna/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](debora.07122004@gmail.com)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(83)981926464)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-matheus-oliveira-leite-51304a2b6/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
