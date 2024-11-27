@@ -4,11 +4,11 @@
 
 ![deborabruna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent&text_color=F7F7F7&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
-## 🔭 Atualmente estou trabalhando e estudando
+## 🔭 Atualmente estou trabalhando e estudando:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,)](https://skillicons.dev)
 
 ## 💬 Pergunte-me sobre ...
-Sou uma pessoa proativa e procuro dar o meu melhor nos projetos diários, estou sempre em busca de novos conhecimentos sobre a área de Desenvolvimento e Tecnologia. Tento constantemente melhorar minhas SoftSkills e meu desempenho em projetos de grupo.
+Sou uma pessoa proativa e procuro dar o meu melhor nos meus projetos diários, estou sempre em busca de novos conhecimentos sobre a área de Desenvolvimento e Tecnologia. Tento constantemente melhorar minhas SoftSkills e meu desempenho em projetos de grupo.
 ## 📫 Como entrar em contato comigo:
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora__bruna/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](debora.07122004@gmail.com)
