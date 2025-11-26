@@ -5,6 +5,43 @@
 ![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&theme=transparent)
 
+<!-- 📌 Cards Rosas - GitHub Stats + Linguagens -->
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; padding: 20px 0;">
+
+  <!-- ⭐ CARD 1 - Stats -->
+  <div style="
+      background: #1a001c;
+      border: 2px solid #ff4fb8;
+      border-radius: 12px;
+      padding: 20px;
+      width: 330px;
+  ">
+    <h3 align="center" style="color:#ff4fb8;">💗 GitHub Stats</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deborabruna078&show_icons=true&theme=transparent&title_color=ff4fb8&icon_color=ff4fb8&text_color=ff4fb8" width="300px">
+  </p>
+
+  </div>
+
+  <!-- 🎀 CARD 2 - Languages -->
+  <div style="
+      background: #1a001c;
+      border: 2px solid #ff4fb8;
+      border-radius: 12px;
+      padding: 20px;
+      width: 330px;
+  ">
+    <h3 align="center" style="color:#ff4fb8;">🎀 Most Used Languages</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna078&layout=compact&theme=transparent&title_color=ff4fb8&text_color=ff4fb8" width="300px">
+  </p>
+
+  </div>
+
+</div>
+
 ## 🔭 Atualmente estou trabalhando e estudando:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,)](https://skillicons.dev)
 
