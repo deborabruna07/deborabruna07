@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=FFCBDB&center=True&random=false&width=435&lines=OLá!+Seja+Bem+-++Vindo+ao+meu+perfil;Meu+nome+é+Débora+Bruna;Tenho+20+anos+de+idade;Sou+da+Paraíba,+Brasil;Eu+estudo+Ciência+da+Computação)](https://git.io/typing-svg)
 
 ![deborabruna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabruna07&show_icons=true&theme=transparent&text_color=F7F7F7)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
 ## 🔭 Atualmente estou trabalhando e estudando:
