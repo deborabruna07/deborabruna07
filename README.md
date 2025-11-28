@@ -9,14 +9,14 @@
 
 
 ㅤ
-## 🔭 Atualmente estou trabalhando e estudando:
+## 🌷 Atualmente estou trabalhando e estudando:
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
 
-## 💬 Pergunte-me sobre ...
+## 🌺 Pergunte-me sobre ...
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto. Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia, além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.
-## 📫 Como entrar em contato comigo:ㅤ
+## 💗 Como entrar em contato comigo:ㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora__bruna/)
 ㅤ[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPkWcrVglMgpVsvkrpQpCHfpjqDtLzGmTcvtRFNsPlhNSrqhflhKkKGTmCMQfRDBfdq)
