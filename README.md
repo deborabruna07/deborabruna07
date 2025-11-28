@@ -10,11 +10,14 @@
 
 ㅤ
 ## 🔭 Atualmente estou trabalhando e estudando:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
 
 ## 💬 Pergunte-me sobre ...
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 Sou uma pessoa proativa e procuro dar o meu melhor nos meus projetos diários, estou sempre em busca de novos conhecimentos sobre a área de Desenvolvimento e Tecnologia. Busco constantemente melhorar minhas SoftSkills e meu desempenho em projetos de grupo.
-## 📫 Como entrar em contato comigo:
+## 📫 Como entrar em contato comigo:ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora__bruna/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPkWcrVglMgpVsvkrpQpCHfpjqDtLzGmTcvtRFNsPlhNSrqhflhKkKGTmCMQfRDBfdq)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981926464)
