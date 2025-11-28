@@ -5,7 +5,7 @@
 ㅤ![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deborabruna07&show_icons=true&title_color=ff66cc&text_color=ffffff&icon_color=ff66cc&border_color=ff66cc&ring_color=ff66cc&bg_color=00000000) 
 ㅤ
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&title_color=ff66cc&text_color=ffffff&border_color=ff66cc&bg_color=00000000)
+ㅤ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&title_color=ff66cc&text_color=ffffff&border_color=ff66cc&bg_color=00000000)
 
 
 
