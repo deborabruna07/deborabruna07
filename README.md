@@ -8,7 +8,7 @@
 
 
 ## 🔭 Atualmente estou trabalhando e estudando:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql,django,pandas,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
 
 ## 💬 Pergunte-me sobre ...
 Sou uma pessoa proativa e procuro dar o meu melhor nos meus projetos diários, estou sempre em busca de novos conhecimentos sobre a área de Desenvolvimento e Tecnologia. Busco constantemente melhorar minhas SoftSkills e meu desempenho em projetos de grupo.
