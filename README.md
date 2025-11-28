@@ -8,7 +8,7 @@
 ㅤ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&title_color=ff66cc&text_color=ffffff&border_color=ff66cc&bg_color=00000000)
 
 
-
+ㅤ
 ## 🔭 Atualmente estou trabalhando e estudando:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
 
