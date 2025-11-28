@@ -19,6 +19,6 @@ Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em
 ## 📫 Como entrar em contato comigo:ㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debora__bruna/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPkWcrVglMgpVsvkrpQpCHfpjqDtLzGmTcvtRFNsPlhNSrqhflhKkKGTmCMQfRDBfdq)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981926464)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ㅤ[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPkWcrVglMgpVsvkrpQpCHfpjqDtLzGmTcvtRFNsPlhNSrqhflhKkKGTmCMQfRDBfdq)
+ㅤ[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981926464)
+ㅤ[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
