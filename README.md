@@ -13,7 +13,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
 
-## 🌺 Pergunte-me sobre ...
+## 🦩 Pergunte-me sobre ...
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto. Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia, além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.
 ## 💗 Como entrar em contato comigo:ㅤ
