@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=FFB0DD&center=True&random=false&width=435&lines=OLá!+Seja+Bem+-++Vindo+ao+meu+perfil;Meu+nome+é+Débora+Bruna;Tenho+20+anos+de+idade;Sou+da+Paraíba,+Brasil;Eu+estudo+Ciência+da+Computação)](https://git.io/typing-svg)
 
-ㅤ![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deborabruna07&show_icons=true&title_color=FFB0DD&text_color=ffffff&icon_color=FF84C6&border_color=FF84C6&ring_color=FF84C6&bg_color=00000000) 
+ㅤ![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deborabruna07&show_icons=true&title_color=FF84C6&text_color=ffffff&icon_color=FF84C6&border_color=FF84C6&ring_color=FF84C6&bg_color=00000000) 
 ㅤ
 
-ㅤ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&title_color=FFB0DD&text_color=ffffff&border_color=FF84C6&bg_color=00000000)
+ㅤ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deborabruna07&layout=compact&title_color=FF84C6&text_color=ffffff&border_color=FF84C6&bg_color=00000000)
 
 
 ㅤ
