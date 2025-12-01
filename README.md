@@ -11,7 +11,7 @@
 ㅤ
 ## 🌷 Atualmente estou trabalhando e estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,php,mysql,r)](https://skillicons.dev)
 
 ## 🦩 Pergunte-me sobre ...
 
