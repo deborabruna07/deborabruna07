@@ -17,7 +17,11 @@
     
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header"
+    width="95%"
+    />
+</div>
 
 ### 🦩 Pergunte-me sobre ...
 ㅤ
@@ -26,8 +30,13 @@
 Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto. Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia, além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.
     
 </div>
-
----
+ㅤ
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
+    width="95%"
+    />
+  
+</div>
     
 ### 💗 Como entrar em contato comigo:
 ㅤ
@@ -39,4 +48,9 @@ Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em
 ㅤ[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
+    width="95%"
+    />
+  
+</div>
