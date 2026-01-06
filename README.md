@@ -8,7 +8,8 @@
 
 
 ㅤ
-## 🌷 Atualmente estou trabalhando e estudando:
+### 🌷 Atualmente estou trabalhando e estudando:
+
 <div align="center">
 ㅤ
   
@@ -16,14 +17,19 @@
     
 </div>
 
-## 🦩 Pergunte-me sobre ...
+---
+
+### 🦩 Pergunte-me sobre ...
+ㅤ
 <div align="center">
-  
+  ㅤ
 Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto. Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia, além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.
     
 </div>
+
+---
     
-## 💗 Como entrar em contato comigo:
+### 💗 Como entrar em contato comigo:
 ㅤ
   <div align="center">
     
@@ -31,6 +37,6 @@ Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em
 ㅤ[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPkWcrVglMgpVsvkrpQpCHfpjqDtLzGmTcvtRFNsPlhNSrqhflhKkKGTmCMQfRDBfdq)
 ㅤ[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583981926464)
 ㅤ[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 </div>
-ㅤ
+
+---
