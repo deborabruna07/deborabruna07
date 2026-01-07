@@ -1,7 +1,7 @@
 ![img](https://i.pinimg.com/originals/a4/a5/21/a4a5213d12274e96ae25f2468aad27bc.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=FFB0DD&center=True&random=false&width=435&lines=OLá!+Seja+Bem+-++Vindo+ao+meu+perfil;Meu+nome+é+Débora+Bruna;Tenho+21+anos+de+idade;Sou+da+Paraíba,+Brasil;Eu+estudo+Ciência+da+Computação;Descubra+mais+sobre+mim+abaixo:;)](https://git.io/typing-svg)
-
+ㅤ
 
 ㅤㅤ![GitHub Stats](https://github-readme-stats-three-drab-74.vercel.app/api?username=deborabruna07&show_icons=true&title_color=FF84C6&text_color=ffffff&icon_color=FF84C6&border_color=FF84C6&bg_color=00000000)ㅤ![Top Langs](https://github-readme-stats-three-drab-74.vercel.app/api/top-langs?username=deborabruna07&layout=compact&title_color=FF84C6&text_color=ffffff&border_color=FF84C6&bg_color=00000000)
 
@@ -19,21 +19,21 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header"
-    width="95%"
+    width="100%"
     />
 </div>
 
-### 🦩 Pergunte-me sobre ...
-ㅤ
-<div align="center">
-  ㅤ
-Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto. Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia, além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.
+### 🦩 Sobre mim:
+ㅤㅤ
+> *Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em cada projeto.*
+> *Estou constantemente buscando novos conhecimentos na área de Desenvolvimento e Tecnologia,*
+> *além de aprimorar minhas Soft Skills e minha atuação em trabalhos em equipe.*
     
 </div>
 ㅤ
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
-    width="95%"
+    width="100%"
     />
   
 </div>
@@ -50,7 +50,7 @@ Sou uma pessoa proativa, dedicada e sempre empenhada em entregar o meu melhor em
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
-    width="95%"
+    width="100%"
     />
   
 </div>
