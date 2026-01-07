@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header"
-    width="100%"
+    width="95%"
     />
 </div>
 
@@ -33,7 +33,7 @@
 ㅤ
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
-    width="100%"
+    width="95%"
     />
   
 </div>
@@ -48,9 +48,3 @@
 ㅤ[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-bruna-63aba1308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" 
-    width="100%"
-    />
-  
-</div>
